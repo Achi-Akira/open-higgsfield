@@ -1,0 +1,7 @@
+{
+  "name": "open-higgsfield",
+  "version": "1.0.0",
+  "description": "Run, configure and extend the OpenHiggsfield studio, a Next.js app that generates images and videos from one prompt bar, and add or tune models in its catalog.",
+  "repository": "https://github.com/Achi-Akira/open-higgsfield",
+  "keywords": ["image-generation", "video-generation", "nextjs", "studio", "ai-models"]
+}
